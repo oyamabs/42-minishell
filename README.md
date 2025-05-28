@@ -33,7 +33,7 @@ Second, it’s okay to fail. My peer and I had to retry this project four times,
 
 ## How to launch the project
 
-> Requires `cc`, `make` and `readline`
+> Requires `cc`, `make` and `libreadline`
 
 First clone the project:
 `git clone https://github.com/oyamabs/42-minishell`
