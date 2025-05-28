@@ -1,0 +1,6 @@
+libft.a
+minishell
+*.o
+minishell_history
+.minishell_history
+unit_tests

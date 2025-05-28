@@ -1,0 +1,10 @@
+-s
+--track-fds=yes
+--track-origins=yes
+--keep-debuginfo=yes
+--leak-check=full
+--show-leak-kinds=all
+--trace-children=yes
+--suppressions=ignore_leak.supp
+--suppressions=readline.supp
+--suppressions=std.supp
