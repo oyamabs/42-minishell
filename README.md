@@ -17,7 +17,7 @@ We only did one bonus but it's more due to how our parser works.
 ## Special thanks
 
 - bfiquet - my peer
-- kcolin and jguelen - for helping me debugging
+- jguelen - for helping me debugging and testing
 - cguilber - for teaching me how to write a good parser
 
 ## My thoughts on the project
@@ -30,3 +30,14 @@ Despite all that, it’s still a good project—just occasionally annoying when 
 To any 42 students reading this:
 First, hi! Feel free to ping me on Slack.
 Second, it’s okay to fail. My peer and I had to retry this project four times, and it ended up taking us nearly five months. Keep pushing forward. Use RDP for parsing—it handles a lot of the "special cases" and is required for the bonus anyway.
+
+## How to launch the project
+
+> Requires `cc`, `make` and `readline`
+
+First clone the project:
+`git clone https://github.com/oyamabs/42-minishell`
+
+Go into the directory and compile with `make`.
+
+Enjoy your minishell!
