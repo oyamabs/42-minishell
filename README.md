@@ -17,7 +17,7 @@ We only did one bonus but it's more due to how our parser works.
 ## Special thanks
 
 - bfiquet - my peer
-- jguelen - for helping me debugging and testing
+- jguelen and kcolin - for helping me debugging and testing
 - cguilber - for teaching me how to write a good parser
 
 ## My thoughts on the project
